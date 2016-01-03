@@ -1,0 +1,1080 @@
+k = 1000000 with number of threads = 32. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 32
+Number of blocks will be created: 31251
+Time
+-----
+Time for the array generation : 65.665695 ms
+Time for the CPU function: 4.520352 ms
+Time for the Host to Device transfer: 4.385984 ms
+Time for the kernel execution: 0.407936 ms
+Time for the Device to Host transfer: 0.022432ms
+Total execution time for Gpu: 4.816352 ms
+Results
+-----
+Cpu result: -2122267215
+Gpu result: -2122267215
+k = 1000000 with number of threads = 32. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 32
+Number of blocks will be created: 31251
+Time
+-----
+Time for the array generation : 65.992516 ms
+Time for the CPU function: 4.382784 ms
+Time for the Host to Device transfer: 3.745792 ms
+Time for the kernel execution: 0.404736 ms
+Time for the Device to Host transfer: 0.022656ms
+Total execution time for Gpu: 4.173184 ms
+Results
+-----
+Cpu result: 308960789
+Gpu result: 308960789
+k = 1000000 with number of threads = 32. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 32
+Number of blocks will be created: 31251
+Time
+-----
+Time for the array generation : 83.778595 ms
+Time for the CPU function: 4.638144 ms
+Time for the Host to Device transfer: 3.764128 ms
+Time for the kernel execution: 0.402976 ms
+Time for the Device to Host transfer: 0.022976ms
+Total execution time for Gpu: 4.190080 ms
+Results
+-----
+Cpu result: 308960789
+Gpu result: 308960789
+k = 1000000 with number of threads = 32. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 32
+Number of blocks will be created: 31251
+Time
+-----
+Time for the array generation : 65.501762 ms
+Time for the CPU function: 4.396224 ms
+Time for the Host to Device transfer: 3.827776 ms
+Time for the kernel execution: 0.403648 ms
+Time for the Device to Host transfer: 0.022304ms
+Total execution time for Gpu: 4.253728 ms
+Results
+-----
+Cpu result: 308960789
+Gpu result: 308960789
+k = 1000000 with number of threads = 64. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 64
+Number of blocks will be created: 15626
+Time
+-----
+Time for the array generation : 78.639618 ms
+Time for the CPU function: 4.377344 ms
+Time for the Host to Device transfer: 4.561376 ms
+Time for the kernel execution: 0.308544 ms
+Time for the Device to Host transfer: 0.021920ms
+Total execution time for Gpu: 4.891840 ms
+Results
+-----
+Cpu result: 1250261866
+Gpu result: 1250261866
+k = 1000000 with number of threads = 64. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 64
+Number of blocks will be created: 15626
+Time
+-----
+Time for the array generation : 80.301826 ms
+Time for the CPU function: 4.374336 ms
+Time for the Host to Device transfer: 3.752384 ms
+Time for the kernel execution: 0.308672 ms
+Time for the Device to Host transfer: 0.022208ms
+Total execution time for Gpu: 4.083264 ms
+Results
+-----
+Cpu result: 1250261866
+Gpu result: 1250261866
+k = 1000000 with number of threads = 64. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 64
+Number of blocks will be created: 15626
+Time
+-----
+Time for the array generation : 65.756897 ms
+Time for the CPU function: 4.416448 ms
+Time for the Host to Device transfer: 3.760800 ms
+Time for the kernel execution: 0.307968 ms
+Time for the Device to Host transfer: 0.023200ms
+Total execution time for Gpu: 4.091968 ms
+Results
+-----
+Cpu result: -428184887
+Gpu result: -428184887
+k = 1000000 with number of threads = 64. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 64
+Number of blocks will be created: 15626
+Time
+-----
+Time for the array generation : 65.559967 ms
+Time for the CPU function: 4.419424 ms
+Time for the Host to Device transfer: 3.745184 ms
+Time for the kernel execution: 0.308800 ms
+Time for the Device to Host transfer: 0.022720ms
+Total execution time for Gpu: 4.076704 ms
+Results
+-----
+Cpu result: -428184887
+Gpu result: -428184887
+k = 1000000 with number of threads = 128. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 128
+Number of blocks will be created: 7813
+Time
+-----
+Time for the array generation : 65.620384 ms
+Time for the CPU function: 4.428032 ms
+Time for the Host to Device transfer: 3.747680 ms
+Time for the kernel execution: 0.262144 ms
+Time for the Device to Host transfer: 0.023392ms
+Total execution time for Gpu: 4.033216 ms
+Results
+-----
+Cpu result: -428184887
+Gpu result: -428184887
+k = 1000000 with number of threads = 128. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 128
+Number of blocks will be created: 7813
+Time
+-----
+Time for the array generation : 65.510780 ms
+Time for the CPU function: 4.421792 ms
+Time for the Host to Device transfer: 3.778816 ms
+Time for the kernel execution: 0.261952 ms
+Time for the Device to Host transfer: 0.021696ms
+Total execution time for Gpu: 4.062464 ms
+Results
+-----
+Cpu result: 2077914682
+Gpu result: 2077914682
+k = 1000000 with number of threads = 128. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 128
+Number of blocks will be created: 7813
+Time
+-----
+Time for the array generation : 65.734528 ms
+Time for the CPU function: 4.457376 ms
+Time for the Host to Device transfer: 3.764576 ms
+Time for the kernel execution: 0.262112 ms
+Time for the Device to Host transfer: 0.022816ms
+Total execution time for Gpu: 4.049504 ms
+Results
+-----
+Cpu result: 2077914682
+Gpu result: 2077914682
+k = 1000000 with number of threads = 128. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 128
+Number of blocks will be created: 7813
+Time
+-----
+Time for the array generation : 88.920990 ms
+Time for the CPU function: 6.102944 ms
+Time for the Host to Device transfer: 5.309696 ms
+Time for the kernel execution: 0.272928 ms
+Time for the Device to Host transfer: 0.030432ms
+Total execution time for Gpu: 5.613056 ms
+Results
+-----
+Cpu result: 2077914682
+Gpu result: 2077914682
+k = 1000000 with number of threads = 256. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 256
+Number of blocks will be created: 3907
+Time
+-----
+Time for the array generation : 65.794205 ms
+Time for the CPU function: 4.462816 ms
+Time for the Host to Device transfer: 3.719968 ms
+Time for the kernel execution: 0.253472 ms
+Time for the Device to Host transfer: 0.022880ms
+Total execution time for Gpu: 3.996320 ms
+Results
+-----
+Cpu result: 1860952458
+Gpu result: 1860952458
+k = 1000000 with number of threads = 256. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 256
+Number of blocks will be created: 3907
+Time
+-----
+Time for the array generation : 65.599358 ms
+Time for the CPU function: 4.475808 ms
+Time for the Host to Device transfer: 3.748640 ms
+Time for the kernel execution: 0.253600 ms
+Time for the Device to Host transfer: 0.106208ms
+Total execution time for Gpu: 4.108448 ms
+Results
+-----
+Cpu result: 1860952458
+Gpu result: 1860952458
+k = 1000000 with number of threads = 256. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 256
+Number of blocks will be created: 3907
+Time
+-----
+Time for the array generation : 65.500450 ms
+Time for the CPU function: 4.407392 ms
+Time for the Host to Device transfer: 3.744128 ms
+Time for the kernel execution: 0.255872 ms
+Time for the Device to Host transfer: 0.023584ms
+Total execution time for Gpu: 4.023584 ms
+Results
+-----
+Cpu result: 1860952458
+Gpu result: 1860952458
+k = 1000000 with number of threads = 256. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 256
+Number of blocks will be created: 3907
+Time
+-----
+Time for the array generation : 65.624321 ms
+Time for the CPU function: 4.415488 ms
+Time for the Host to Device transfer: 3.746528 ms
+Time for the kernel execution: 0.256128 ms
+Time for the Device to Host transfer: 0.021504ms
+Total execution time for Gpu: 4.024160 ms
+Results
+-----
+Cpu result: 369325200
+Gpu result: 369325200
+k = 1000000 with number of threads = 512. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 512
+Number of blocks will be created: 1954
+Time
+-----
+Time for the array generation : 83.336739 ms
+Time for the CPU function: 4.530720 ms
+Time for the Host to Device transfer: 5.249728 ms
+Time for the kernel execution: 0.286528 ms
+Time for the Device to Host transfer: 0.024320ms
+Total execution time for Gpu: 5.560576 ms
+Results
+-----
+Cpu result: 369325200
+Gpu result: 369325200
+k = 1000000 with number of threads = 512. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 512
+Number of blocks will be created: 1954
+Time
+-----
+Time for the array generation : 65.565948 ms
+Time for the CPU function: 4.524832 ms
+Time for the Host to Device transfer: 3.722528 ms
+Time for the kernel execution: 0.290048 ms
+Time for the Device to Host transfer: 0.023424ms
+Total execution time for Gpu: 4.036000 ms
+Results
+-----
+Cpu result: 369325200
+Gpu result: 369325200
+k = 1000000 with number of threads = 512. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 512
+Number of blocks will be created: 1954
+Time
+-----
+Time for the array generation : 65.652832 ms
+Time for the CPU function: 4.485472 ms
+Time for the Host to Device transfer: 3.759872 ms
+Time for the kernel execution: 0.279776 ms
+Time for the Device to Host transfer: 0.022528ms
+Total execution time for Gpu: 4.062176 ms
+Results
+-----
+Cpu result: 1829307886
+Gpu result: 1829307886
+k = 1000000 with number of threads = 512. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 1000000
+Number of threads per block: 512
+Number of blocks will be created: 1954
+Time
+-----
+Time for the array generation : 76.846436 ms
+Time for the CPU function: 4.438496 ms
+Time for the Host to Device transfer: 3.777568 ms
+Time for the kernel execution: 0.291808 ms
+Time for the Device to Host transfer: 0.023872ms
+Total execution time for Gpu: 4.093248 ms
+Results
+-----
+Cpu result: 1829307886
+Gpu result: 1829307886
+k = 5000000 with number of threads = 32. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 32
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 326.656860 ms
+Time for the CPU function: 21.703840 ms
+Time for the Host to Device transfer: 15.483264 ms
+Time for the kernel execution: 0.025056 ms
+Time for the Device to Host transfer: 0.023520ms
+Total execution time for Gpu: 15.531840 ms
+Results
+-----
+Cpu result: 1131285104
+Gpu result: 0
+k = 5000000 with number of threads = 32. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 32
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 324.919403 ms
+Time for the CPU function: 21.679808 ms
+Time for the Host to Device transfer: 15.470304 ms
+Time for the kernel execution: 0.024352 ms
+Time for the Device to Host transfer: 0.023648ms
+Total execution time for Gpu: 15.518305 ms
+Results
+-----
+Cpu result: 1991410666
+Gpu result: 0
+k = 5000000 with number of threads = 32. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 32
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 334.529449 ms
+Time for the CPU function: 21.873632 ms
+Time for the Host to Device transfer: 15.950112 ms
+Time for the kernel execution: 0.033888 ms
+Time for the Device to Host transfer: 0.036832ms
+Total execution time for Gpu: 16.020832 ms
+Results
+-----
+Cpu result: 1737907715
+Gpu result: 0
+k = 5000000 with number of threads = 32. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 32
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 345.145111 ms
+Time for the CPU function: 17.639776 ms
+Time for the Host to Device transfer: 21.914400 ms
+Time for the kernel execution: 0.021024 ms
+Time for the Device to Host transfer: 0.024160ms
+Total execution time for Gpu: 21.959585 ms
+Results
+-----
+Cpu result: 792611344
+Gpu result: 0
+k = 5000000 with number of threads = 64. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 64
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 261.057587 ms
+Time for the CPU function: 17.502785 ms
+Time for the Host to Device transfer: 13.911232 ms
+Time for the kernel execution: 0.020128 ms
+Time for the Device to Host transfer: 0.022816ms
+Total execution time for Gpu: 13.954176 ms
+Results
+-----
+Cpu result: 1905885980
+Gpu result: 0
+k = 5000000 with number of threads = 64. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 64
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 351.845764 ms
+Time for the CPU function: 17.865280 ms
+Time for the Host to Device transfer: 14.074783 ms
+Time for the kernel execution: 0.019712 ms
+Time for the Device to Host transfer: 0.024704ms
+Total execution time for Gpu: 14.119200 ms
+Results
+-----
+Cpu result: -232939915
+Gpu result: 0
+k = 5000000 with number of threads = 64. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 64
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 261.028625 ms
+Time for the CPU function: 17.363775 ms
+Time for the Host to Device transfer: 13.899713 ms
+Time for the kernel execution: 0.019904 ms
+Time for the Device to Host transfer: 0.024384ms
+Total execution time for Gpu: 13.944000 ms
+Results
+-----
+Cpu result: -232939915
+Gpu result: 0
+k = 5000000 with number of threads = 64. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 64
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 282.069916 ms
+Time for the CPU function: 17.403296 ms
+Time for the Host to Device transfer: 13.922848 ms
+Time for the kernel execution: 0.019520 ms
+Time for the Device to Host transfer: 0.024704ms
+Total execution time for Gpu: 13.967072 ms
+Results
+-----
+Cpu result: -121775928
+Gpu result: 0
+k = 5000000 with number of threads = 128. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 128
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 264.850891 ms
+Time for the CPU function: 17.426687 ms
+Time for the Host to Device transfer: 13.961312 ms
+Time for the kernel execution: 1.193760 ms
+Time for the Device to Host transfer: 0.036128ms
+Total execution time for Gpu: 15.191200 ms
+Results
+-----
+Cpu result: -121775928
+Gpu result: -121775928
+k = 5000000 with number of threads = 128. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 128
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 301.702942 ms
+Time for the CPU function: 22.117279 ms
+Time for the Host to Device transfer: 23.373440 ms
+Time for the kernel execution: 1.199872 ms
+Time for the Device to Host transfer: 0.025408ms
+Total execution time for Gpu: 24.598719 ms
+Results
+-----
+Cpu result: 345807976
+Gpu result: 345807976
+k = 5000000 with number of threads = 128. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 128
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 300.739990 ms
+Time for the CPU function: 17.527905 ms
+Time for the Host to Device transfer: 14.034624 ms
+Time for the kernel execution: 1.193472 ms
+Time for the Device to Host transfer: 0.024384ms
+Total execution time for Gpu: 15.252480 ms
+Results
+-----
+Cpu result: -1702532951
+Gpu result: -1702532951
+k = 5000000 with number of threads = 128. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 128
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 260.877899 ms
+Time for the CPU function: 17.418655 ms
+Time for the Host to Device transfer: 14.050688 ms
+Time for the kernel execution: 1.193952 ms
+Time for the Device to Host transfer: 0.021696ms
+Total execution time for Gpu: 15.266335 ms
+Results
+-----
+Cpu result: -1702532951
+Gpu result: -1702532951
+k = 5000000 with number of threads = 256. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 256
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 262.268677 ms
+Time for the CPU function: 17.420033 ms
+Time for the Host to Device transfer: 13.963456 ms
+Time for the kernel execution: 1.086464 ms
+Time for the Device to Host transfer: 0.036224ms
+Total execution time for Gpu: 15.086144 ms
+Results
+-----
+Cpu result: 1009153534
+Gpu result: 1009153534
+k = 5000000 with number of threads = 256. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 256
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 261.070648 ms
+Time for the CPU function: 17.473503 ms
+Time for the Host to Device transfer: 13.957472 ms
+Time for the kernel execution: 1.088000 ms
+Time for the Device to Host transfer: 0.028288ms
+Total execution time for Gpu: 15.073760 ms
+Results
+-----
+Cpu result: 1009153534
+Gpu result: 1009153534
+k = 5000000 with number of threads = 256. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 256
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 285.808319 ms
+Time for the CPU function: 17.518335 ms
+Time for the Host to Device transfer: 13.920448 ms
+Time for the kernel execution: 1.088320 ms
+Time for the Device to Host transfer: 0.022752ms
+Total execution time for Gpu: 15.031520 ms
+Results
+-----
+Cpu result: -750648006
+Gpu result: -750648006
+k = 5000000 with number of threads = 256. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 256
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 261.557617 ms
+Time for the CPU function: 17.633087 ms
+Time for the Host to Device transfer: 13.938880 ms
+Time for the kernel execution: 1.088192 ms
+Time for the Device to Host transfer: 0.032544ms
+Total execution time for Gpu: 15.059616 ms
+Results
+-----
+Cpu result: -412906981
+Gpu result: -412906981
+k = 5000000 with number of threads = 512. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 512
+Number of blocks will be created: 9766
+Time
+-----
+Time for the array generation : 263.764526 ms
+Time for the CPU function: 17.623615 ms
+Time for the Host to Device transfer: 14.285120 ms
+Time for the kernel execution: 1.069824 ms
+Time for the Device to Host transfer: 0.028384ms
+Total execution time for Gpu: 15.383328 ms
+Results
+-----
+Cpu result: -342113924
+Gpu result: -342113924
+k = 5000000 with number of threads = 512. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 512
+Number of blocks will be created: 9766
+Time
+-----
+Time for the array generation : 263.678009 ms
+Time for the CPU function: 17.589920 ms
+Time for the Host to Device transfer: 14.204544 ms
+Time for the kernel execution: 1.067552 ms
+Time for the Device to Host transfer: 0.030144ms
+Total execution time for Gpu: 15.302239 ms
+Results
+-----
+Cpu result: -966543797
+Gpu result: -966543797
+k = 5000000 with number of threads = 512. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 512
+Number of blocks will be created: 9766
+Time
+-----
+Time for the array generation : 261.305420 ms
+Time for the CPU function: 17.359167 ms
+Time for the Host to Device transfer: 13.904416 ms
+Time for the kernel execution: 1.066496 ms
+Time for the Device to Host transfer: 0.023264ms
+Total execution time for Gpu: 14.994176 ms
+Results
+-----
+Cpu result: 984307435
+Gpu result: 984307435
+k = 5000000 with number of threads = 512. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 5000000
+Number of threads per block: 512
+Number of blocks will be created: 9766
+Time
+-----
+Time for the array generation : 260.966309 ms
+Time for the CPU function: 17.362944 ms
+Time for the Host to Device transfer: 13.898784 ms
+Time for the kernel execution: 1.065184 ms
+Time for the Device to Host transfer: 0.027776ms
+Total execution time for Gpu: 14.991743 ms
+Results
+-----
+Cpu result: -395904147
+Gpu result: -395904147
+k = 10000000 with number of threads = 32. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 32
+Number of blocks will be created: 312501
+Time
+-----
+Time for the array generation : 523.130371 ms
+Time for the CPU function: 34.522690 ms
+Time for the Host to Device transfer: 26.606880 ms
+Time for the kernel execution: 0.019392 ms
+Time for the Device to Host transfer: 0.024768ms
+Total execution time for Gpu: 26.651041 ms
+Results
+-----
+Cpu result: 938368818
+Gpu result: 0
+k = 10000000 with number of threads = 32. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 32
+Number of blocks will be created: 312501
+Time
+-----
+Time for the array generation : 651.501953 ms
+Time for the CPU function: 43.122658 ms
+Time for the Host to Device transfer: 29.785952 ms
+Time for the kernel execution: 0.028000 ms
+Time for the Device to Host transfer: 0.025888ms
+Total execution time for Gpu: 29.839840 ms
+Results
+-----
+Cpu result: 103310626
+Gpu result: 0
+k = 10000000 with number of threads = 32. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 32
+Number of blocks will be created: 312501
+Time
+-----
+Time for the array generation : 650.069824 ms
+Time for the CPU function: 43.905056 ms
+Time for the Host to Device transfer: 29.862432 ms
+Time for the kernel execution: 0.024320 ms
+Time for the Device to Host transfer: 0.024928ms
+Total execution time for Gpu: 29.911680 ms
+Results
+-----
+Cpu result: 316396861
+Gpu result: 0
+k = 10000000 with number of threads = 32. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 32
+Number of blocks will be created: 312501
+Time
+-----
+Time for the array generation : 660.666260 ms
+Time for the CPU function: 43.650753 ms
+Time for the Host to Device transfer: 29.926720 ms
+Time for the kernel execution: 0.026176 ms
+Time for the Device to Host transfer: 0.025184ms
+Total execution time for Gpu: 29.978081 ms
+Results
+-----
+Cpu result: 1285177361
+Gpu result: 0
+k = 10000000 with number of threads = 64. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 64
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 648.925476 ms
+Time for the CPU function: 39.573631 ms
+Time for the Host to Device transfer: 26.352480 ms
+Time for the kernel execution: 0.022432 ms
+Time for the Device to Host transfer: 0.021568ms
+Total execution time for Gpu: 26.396481 ms
+Results
+-----
+Cpu result: 1244727085
+Gpu result: 0
+k = 10000000 with number of threads = 64. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 64
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 650.356079 ms
+Time for the CPU function: 42.414913 ms
+Time for the Host to Device transfer: 27.753504 ms
+Time for the kernel execution: 0.023904 ms
+Time for the Device to Host transfer: 0.022016ms
+Total execution time for Gpu: 27.799425 ms
+Results
+-----
+Cpu result: -1406569137
+Gpu result: 0
+k = 10000000 with number of threads = 64. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 64
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 593.940796 ms
+Time for the CPU function: 35.093441 ms
+Time for the Host to Device transfer: 42.702530 ms
+Time for the kernel execution: 0.023840 ms
+Time for the Device to Host transfer: 0.025088ms
+Total execution time for Gpu: 42.751461 ms
+Results
+-----
+Cpu result: 837556345
+Gpu result: 0
+k = 10000000 with number of threads = 64. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 64
+Number of blocks will be created: 156251
+Time
+-----
+Time for the array generation : 667.650513 ms
+Time for the CPU function: 47.810944 ms
+Time for the Host to Device transfer: 44.603840 ms
+Time for the kernel execution: 0.025248 ms
+Time for the Device to Host transfer: 0.025856ms
+Total execution time for Gpu: 44.654945 ms
+Results
+-----
+Cpu result: -212978872
+Gpu result: 0
+k = 10000000 with number of threads = 128. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 128
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 592.073242 ms
+Time for the CPU function: 34.887550 ms
+Time for the Host to Device transfer: 42.670082 ms
+Time for the kernel execution: 0.023104 ms
+Time for the Device to Host transfer: 0.025216ms
+Total execution time for Gpu: 42.718403 ms
+Results
+-----
+Cpu result: -993003425
+Gpu result: 0
+k = 10000000 with number of threads = 128. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 128
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 667.828003 ms
+Time for the CPU function: 35.415104 ms
+Time for the Host to Device transfer: 43.218494 ms
+Time for the kernel execution: 0.024064 ms
+Time for the Device to Host transfer: 0.026336ms
+Total execution time for Gpu: 43.268894 ms
+Results
+-----
+Cpu result: -2070946722
+Gpu result: 0
+k = 10000000 with number of threads = 128. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 128
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 633.019226 ms
+Time for the CPU function: 35.089760 ms
+Time for the Host to Device transfer: 42.519009 ms
+Time for the kernel execution: 0.023040 ms
+Time for the Device to Host transfer: 0.025920ms
+Total execution time for Gpu: 42.567970 ms
+Results
+-----
+Cpu result: -339125135
+Gpu result: 0
+k = 10000000 with number of threads = 128. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 128
+Number of blocks will be created: 78126
+Time
+-----
+Time for the array generation : 653.096802 ms
+Time for the CPU function: 35.798367 ms
+Time for the Host to Device transfer: 43.848797 ms
+Time for the kernel execution: 0.020544 ms
+Time for the Device to Host transfer: 0.025440ms
+Total execution time for Gpu: 43.894779 ms
+Results
+-----
+Cpu result: 2073650341
+Gpu result: 0
+k = 10000000 with number of threads = 256. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 256
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 649.723022 ms
+Time for the CPU function: 35.503807 ms
+Time for the Host to Device transfer: 42.910206 ms
+Time for the kernel execution: 2.119840 ms
+Time for the Device to Host transfer: 0.030016ms
+Total execution time for Gpu: 45.060062 ms
+Results
+-----
+Cpu result: -286533487
+Gpu result: -286533487
+k = 10000000 with number of threads = 256. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 256
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 649.397766 ms
+Time for the CPU function: 43.115170 ms
+Time for the Host to Device transfer: 29.134497 ms
+Time for the kernel execution: 2.104192 ms
+Time for the Device to Host transfer: 0.022720ms
+Total execution time for Gpu: 31.261410 ms
+Results
+-----
+Cpu result: 436132525
+Gpu result: 436132525
+k = 10000000 with number of threads = 256. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 256
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 594.696106 ms
+Time for the CPU function: 34.976288 ms
+Time for the Host to Device transfer: 42.423233 ms
+Time for the kernel execution: 2.118368 ms
+Time for the Device to Host transfer: 0.023072ms
+Total execution time for Gpu: 44.564671 ms
+Results
+-----
+Cpu result: 1889215261
+Gpu result: 1889215261
+k = 10000000 with number of threads = 256. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 256
+Number of blocks will be created: 39063
+Time
+-----
+Time for the array generation : 649.932373 ms
+Time for the CPU function: 43.118496 ms
+Time for the Host to Device transfer: 29.597536 ms
+Time for the kernel execution: 2.113440 ms
+Time for the Device to Host transfer: 0.023264ms
+Total execution time for Gpu: 31.734240 ms
+Results
+-----
+Cpu result: 681492541
+Gpu result: 681492541
+k = 10000000 with number of threads = 512. Output is written into results.txt, repeat: 1.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 512
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 604.339722 ms
+Time for the CPU function: 35.010815 ms
+Time for the Host to Device transfer: 42.859390 ms
+Time for the kernel execution: 2.029152 ms
+Time for the Device to Host transfer: 0.026752ms
+Total execution time for Gpu: 44.915295 ms
+Results
+-----
+Cpu result: 347333234
+Gpu result: 347333234
+k = 10000000 with number of threads = 512. Output is written into results.txt, repeat: 2.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 512
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 650.311829 ms
+Time for the CPU function: 43.193375 ms
+Time for the Host to Device transfer: 28.819712 ms
+Time for the kernel execution: 2.018496 ms
+Time for the Device to Host transfer: 0.021568ms
+Total execution time for Gpu: 30.859776 ms
+Results
+-----
+Cpu result: -4951172
+Gpu result: -4951172
+k = 10000000 with number of threads = 512. Output is written into results.txt, repeat: 3.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 512
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 660.779968 ms
+Time for the CPU function: 35.364639 ms
+Time for the Host to Device transfer: 42.872608 ms
+Time for the kernel execution: 2.039200 ms
+Time for the Device to Host transfer: 0.024416ms
+Total execution time for Gpu: 44.936226 ms
+Results
+-----
+Cpu result: -296958916
+Gpu result: -296958916
+k = 10000000 with number of threads = 512. Output is written into results.txt, repeat: 4.
+Info
+-----
+Number of elements: 10000000
+Number of threads per block: 512
+Number of blocks will be created: 19532
+Time
+-----
+Time for the array generation : 648.752869 ms
+Time for the CPU function: 43.145153 ms
+Time for the Host to Device transfer: 29.766785 ms
+Time for the kernel execution: 2.030336 ms
+Time for the Device to Host transfer: 0.025504ms
+Total execution time for Gpu: 31.822624 ms
+Results
+-----
+Cpu result: 1317280658
+Gpu result: 1317280658
